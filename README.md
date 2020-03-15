@@ -3,11 +3,11 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-# Background
+## Background
 
 UNICEF Comoros is planning to conduct a national survey and would like to explore all the possible methods to use to be able to assess standard health and nutrition indicators they need for planning projects in the country. This document outlines an alternative to standard cluster surveys such as the Multiple Indicator Cluster Surveys (MICS) that are usually used by UNICEF countries.
 
-## About Comoros
+### About Comoros
 
 The Comoros (Union of the Comoros) is an island country on the Indian Ocean composed of three main islands (first administrative unit). The country is further dividided administratively into 17 prefectures (districts) and 55 communes (sub-districts). Figure below show these administrative divisions.
 
@@ -74,8 +74,7 @@ For purposes of health and nutrition programme planning for the Comoros, we prop
 
 Other indicators can be added. We prefer to use fully tested question sets and indicators and can advise on indicator selection.
 
-
-# Proposed method
+## Proposed method
 
 Given the geography of the Comoros and with what we recommend as feasible and useful indicators for the purpose of health and nutrition programming in the country, we propose the Rapid Assessment Method or RAM. Applying RAM in the Comoros will include data collected and estimates made at prefecture (district) level using small sample surveys (e.g. 16 clusters of 12 mother-child pairs selected using simple to use and well-tested stratified spatial sampling methods). Surveys can be pooled (combined) to produce estimates at wider levels (e.g. island and union level). Pooling of results will require prefecture level population data. Pooling of multiple RAM surveys can be seen as a "poor man's MICS" providing similar results both cheaply and quickly. Results can be mapped to prefecture level and above. RAM works with such small sample sizes (e.g. n = 192) because it uses modern and efficient indicators and computer intensive data analysis methods. All analysis is done using our free and open source "workflow" software.
 
@@ -85,7 +84,7 @@ Given the geography of the Comoros and with what we recommend as feasible and us
 
 RAM has been used in Sierra Leone, Sudan, Bangladesh, Myanmar, Ethiopia, Tanzania, DRC, Malawi by UNICEF, MSF, GOAL, SC-US, Help-Age (RAM-OP), GAIN, and national governments.
 
-# Implementation
+## Implementation
 
 We have experience rolling out RAM at the national level. We usually start by training many teams and supervisors in a single district. Teams can then return to home districts to complete further surveys. A typical district survey takes less than about 4 days to complete. Data-entry, data-analysis, and reporting usually takes only one additional day to complete. All data-analysis is done using our free and open source "workflow" software which we can easily customise to meet clients' needs. We can also provide training and support for survey and software customisation.
 
