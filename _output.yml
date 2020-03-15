@@ -10,6 +10,7 @@ bookdown::pdf_document2:
   fig_caption: yes
   latex_engine: xelatex
   citation_package: natbib
+#github_document
 #bookdown::html_document2:
 #  toc_depth: 2
 #  toc: true
