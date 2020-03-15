@@ -11,7 +11,7 @@ UNICEF Comoros is planning to conduct a national survey and would like to explor
 
 The Comoros (Union of the Comoros) is an island country on the Indian Ocean composed of three main islands (first administrative unit). The country is further dividided administratively into 17 prefectures (districts) and 55 communes (sub-districts). Figure below show these administrative divisions.
 
-![](/comorosNotes_files/figure-latex/comorosMap-1.pdf)
+![](/figures/comorosMaps.png)
 
 # Proposed indicators
 
