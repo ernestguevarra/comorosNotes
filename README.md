@@ -1,6 +1,7 @@
 # Notes on the application of Rapid Assessment Method for a national survey in the Comoros
 
 <!-- badges: start -->
+[![DOI](https://zenodo.org/badge/247420972.svg)](https://zenodo.org/badge/latestdoi/247420972)
 <!-- badges: end -->
 
 ## Background
