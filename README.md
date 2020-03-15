@@ -44,7 +44,7 @@ For purposes of health and nutrition programme planning for the Comoros, we prop
 
 * Dietary diversity scores for mothers (minimum dietary diversity for women or MDD-W) and children.
 
-* Micronutrient consumption in mothers and children (form dietary diversity data) 
+* Micronutrient consumption in mothers and children (from dietary diversity data) 
 
 * Period prevalence of diarrhoea, acute respiratory infection (ARI), and fever of unknown origin (FUO) in children.
 
@@ -73,7 +73,7 @@ For purposes of health and nutrition programme planning for the Comoros, we prop
 * Multi-dimensional Poverty Index (MPI) or other poverty indices.
 
 
-Other indicators can be added. We prefer to use fully tested question sets and indicators and can advise on indicator selection.
+Other indicators can be added. We prefer to use fully tested question sets and indicators and can advise on indicator selection. Let us know of indicators that you would like to add and we can provide specific guidance on whether these indicators will fit our approach and if not, what adaptations might be applied to these indicators to be fit for use with our approach.
 
 ## Proposed method
 
@@ -89,5 +89,7 @@ RAM has been used in Sierra Leone, Sudan, Bangladesh, Myanmar, Ethiopia, Tanzani
 
 We have experience rolling out RAM at the national level. We usually start by training many teams and supervisors in a single district. Teams can then return to home districts to complete further surveys. A typical district survey takes less than about 4 days to complete. Data-entry, data-analysis, and reporting usually takes only one additional day to complete. All data-analysis is done using our free and open source "workflow" software which we can easily customise to meet clients' needs. We can also provide training and support for survey and software customisation.
 
+![](/figures/runWorkflowRAF.png)
+![](/figures/webWorkflow.png)
 
 
