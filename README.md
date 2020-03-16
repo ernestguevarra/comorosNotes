@@ -6,11 +6,11 @@
 
 ## Background
 
-UNICEF Comoros is planning to conduct a national survey and would like to explore all the possible methods to use to be able to assess standard health and nutrition indicators they need for planning projects in the country. This document outlines an alternative to standard cluster surveys such as the Multiple Indicator Cluster Surveys (MICS) that are usually used by UNICEF countries.
+UNICEF Comoros is planning to conduct a national survey and would like to explore all the possible methods to use to be able to assess standard health and nutrition indicators they need for planning projects in the country. This document outlines an alternative to standard cluster surveys such as the Multiple Indicator Cluster Surveys (MICS) that are frequenty used by UNICEF countries.
 
 ### About Comoros
 
-The Comoros (Union of the Comoros) is an island country on the Indian Ocean composed of three main islands (first administrative unit). The country is further dividided administratively into 17 prefectures (districts) and 55 communes (sub-districts). Figure below show these administrative divisions.
+The Comoros (Union of the Comoros) is an island country on the Indian Ocean composed of three main islands (first administrative unit) and is further dividided administratively into 17 prefectures (districts). Figure below show these administrative divisions.
 
 ![](/figures/comorosMaps.png)
 
@@ -34,19 +34,19 @@ For purposes of health and nutrition programme planning for the Comoros, we prop
         
         * Combined GAM and combined SAM (MUAC, WHZ, oedema)
 
-      in children 6 to 59 months.
+      in children 6 to 59 months
 
-    - Prevalence of acute energy deficiency (MUAC) in mothers / carers.
+    - Prevalence of acute energy deficiency (MUAC) in mothers / carers
 
-* Infant and child feeding index (ICFI) in children age 6 to 23 months extended using dietary diversity and meal frequency data in older children. 
+* Infant and child feeding index (ICFI) in children age 6 to 23 months extended using dietary diversity and meal frequency data in older children
 
-    - ICFI provides a comprensive set of IYCF behavioural indicators and has been used in DHS surveys.
+    - ICFI provides a comprensive set of IYCF behavioural indicators and has been used in DHS surveys and is also frequently used in RAM surveys
 
-* Dietary diversity scores for mothers (minimum dietary diversity for women or MDD-W) and children.
+* Dietary diversity scores for mothers (minimum dietary diversity for women or MDD-W) and children
 
 * Micronutrient consumption in mothers and children (from dietary diversity data) 
 
-* Period prevalence of diarrhoea, acute respiratory infection (ARI), and fever of unknown origin (FUO) in children.
+* 14-day period prevalence by maternal recall of diarrhoea, acute respiratory infection (ARI), and fever of unknown origin (FUO) in children
 
 * Water, sanitation, and hygiene (WASH) indicators (Joint Monitoring Programme or JMP indicator set)
 
@@ -70,14 +70,13 @@ For purposes of health and nutrition programme planning for the Comoros, we prop
 
 * Maternal education
 
-* Multi-dimensional Poverty Index (MPI) or other poverty indices.
-
+* Multi-dimensional Poverty Index (MPI) or other poverty indices
 
 Other indicators can be added. We prefer to use fully tested question sets and indicators and can advise on indicator selection. Let us know of indicators that you would like to add and we can provide specific guidance on whether these indicators will fit our approach and if not, what adaptations might be applied to these indicators to be fit for use with our approach.
 
 ## Proposed method
 
-Given the geography of the Comoros and with what we recommend as feasible and useful indicators for the purpose of health and nutrition programming in the country, we propose the Rapid Assessment Method or RAM. Applying RAM in the Comoros will include data collected and estimates made at prefecture (district) level using small sample surveys (e.g. 16 clusters of 12 mother-child pairs selected using simple to use and well-tested stratified spatial sampling methods). Surveys can be pooled (combined) to produce estimates at wider levels (e.g. island and union level). Pooling of results will require prefecture level population data. Pooling of multiple RAM surveys can be seen as a "poor man's MICS" providing similar results both cheaply and quickly. Results can be mapped to prefecture level and above. RAM works with such small sample sizes (e.g. n = 192) because it uses modern and efficient indicators and computer intensive data analysis methods. All analysis is done using our free and open source "workflow" software.
+Given the geography of the Comoros and with what we recommend as feasible and useful indicators for the purpose of health and nutrition programming in the country, we propose the Rapid Assessment Method or RAM. Applying RAM in the Comoros will include data collected and estimates made at prefecture (district) level using small sample surveys (e.g. 16 clusters of 12 mother-child pairs selected using simple to use and well-tested stratified spatial sampling methods). Surveys can be pooled (combined) to produce estimates at wider levels (e.g. island and union level). Pooling of results will require prefecture level population data. Pooling of multiple RAM surveys can be seen as a "poor man's MICS" providing similar results quicker and at lower costs. Results can be mapped to prefecture level and above. RAM works with such small sample sizes (e.g. `n = 192`) because it uses modern and efficient indicators and computer intensive data analysis methods. All analysis is done using our free and open source "workflow" software.
 
 ![](/figures/c2a.png)
 ![](/figures/h2.png)
